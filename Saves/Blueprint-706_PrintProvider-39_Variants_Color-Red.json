@@ -1,0 +1,142 @@
+[
+  {
+    "id": 73198,
+    "title": "Red / S",
+    "options": {
+      "color": "Red",
+      "size": "S"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 3955,
+        "width": 3461
+      },
+      {
+        "position": "front",
+        "height": 3955,
+        "width": 3461
+      }
+    ]
+  },
+  {
+    "id": 73202,
+    "title": "Red / M",
+    "options": {
+      "color": "Red",
+      "size": "M"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4387,
+        "width": 3839
+      },
+      {
+        "position": "front",
+        "height": 4387,
+        "width": 3839
+      }
+    ]
+  },
+  {
+    "id": 73206,
+    "title": "Red / L",
+    "options": {
+      "color": "Red",
+      "size": "L"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 73210,
+    "title": "Red / XL",
+    "options": {
+      "color": "Red",
+      "size": "XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 73214,
+    "title": "Red / 2XL",
+    "options": {
+      "color": "Red",
+      "size": "2XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 79157,
+    "title": "Red / 3XL",
+    "options": {
+      "color": "Red",
+      "size": "3XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 101465,
+    "title": "Red / 4XL",
+    "options": {
+      "color": "Red",
+      "size": "4XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  }
+]

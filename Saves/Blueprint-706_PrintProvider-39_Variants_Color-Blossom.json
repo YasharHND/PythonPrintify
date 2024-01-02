@@ -1,0 +1,142 @@
+[
+  {
+    "id": 78886,
+    "title": "Blossom / S",
+    "options": {
+      "color": "Blossom",
+      "size": "S"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 3955,
+        "width": 3461
+      },
+      {
+        "position": "front",
+        "height": 3955,
+        "width": 3461
+      }
+    ]
+  },
+  {
+    "id": 78887,
+    "title": "Blossom / M",
+    "options": {
+      "color": "Blossom",
+      "size": "M"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4387,
+        "width": 3839
+      },
+      {
+        "position": "front",
+        "height": 4387,
+        "width": 3839
+      }
+    ]
+  },
+  {
+    "id": 78888,
+    "title": "Blossom / L",
+    "options": {
+      "color": "Blossom",
+      "size": "L"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 78889,
+    "title": "Blossom / XL",
+    "options": {
+      "color": "Blossom",
+      "size": "XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 78890,
+    "title": "Blossom / 2XL",
+    "options": {
+      "color": "Blossom",
+      "size": "2XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 79115,
+    "title": "Blossom / 3XL",
+    "options": {
+      "color": "Blossom",
+      "size": "3XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 101424,
+    "title": "Blossom / 4XL",
+    "options": {
+      "color": "Blossom",
+      "size": "4XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  }
+]

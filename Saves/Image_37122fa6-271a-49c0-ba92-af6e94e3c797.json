@@ -1,0 +1,9 @@
+{
+  "status": "error",
+  "code": 10300,
+  "message": "Operation failed.",
+  "errors": {
+    "reason": "Unsupported Content-Type binary/octet-stream",
+    "code": 10300
+  }
+}

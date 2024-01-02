@@ -1,0 +1,142 @@
+[
+  {
+    "id": 73199,
+    "title": "White / S",
+    "options": {
+      "color": "White",
+      "size": "S"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 3955,
+        "width": 3461
+      },
+      {
+        "position": "front",
+        "height": 3955,
+        "width": 3461
+      }
+    ]
+  },
+  {
+    "id": 73203,
+    "title": "White / M",
+    "options": {
+      "color": "White",
+      "size": "M"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4387,
+        "width": 3839
+      },
+      {
+        "position": "front",
+        "height": 4387,
+        "width": 3839
+      }
+    ]
+  },
+  {
+    "id": 73207,
+    "title": "White / L",
+    "options": {
+      "color": "White",
+      "size": "L"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 73211,
+    "title": "White / XL",
+    "options": {
+      "color": "White",
+      "size": "XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 73215,
+    "title": "White / 2XL",
+    "options": {
+      "color": "White",
+      "size": "2XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 79169,
+    "title": "White / 3XL",
+    "options": {
+      "color": "White",
+      "size": "3XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 101476,
+    "title": "White / 4XL",
+    "options": {
+      "color": "White",
+      "size": "4XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  }
+]

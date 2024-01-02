@@ -1,0 +1,142 @@
+[
+  {
+    "id": 78981,
+    "title": "Hemp / S",
+    "options": {
+      "color": "Hemp",
+      "size": "S"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 3955,
+        "width": 3461
+      },
+      {
+        "position": "front",
+        "height": 3955,
+        "width": 3461
+      }
+    ]
+  },
+  {
+    "id": 78982,
+    "title": "Hemp / M",
+    "options": {
+      "color": "Hemp",
+      "size": "M"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4387,
+        "width": 3839
+      },
+      {
+        "position": "front",
+        "height": 4387,
+        "width": 3839
+      }
+    ]
+  },
+  {
+    "id": 78983,
+    "title": "Hemp / L",
+    "options": {
+      "color": "Hemp",
+      "size": "L"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 78984,
+    "title": "Hemp / XL",
+    "options": {
+      "color": "Hemp",
+      "size": "XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 78985,
+    "title": "Hemp / 2XL",
+    "options": {
+      "color": "Hemp",
+      "size": "2XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 79139,
+    "title": "Hemp / 3XL",
+    "options": {
+      "color": "Hemp",
+      "size": "3XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 101447,
+    "title": "Hemp / 4XL",
+    "options": {
+      "color": "Hemp",
+      "size": "4XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  }
+]

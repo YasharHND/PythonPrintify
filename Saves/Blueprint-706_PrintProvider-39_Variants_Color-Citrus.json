@@ -1,0 +1,142 @@
+[
+  {
+    "id": 78931,
+    "title": "Citrus / S",
+    "options": {
+      "color": "Citrus",
+      "size": "S"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 3955,
+        "width": 3461
+      },
+      {
+        "position": "front",
+        "height": 3955,
+        "width": 3461
+      }
+    ]
+  },
+  {
+    "id": 78932,
+    "title": "Citrus / M",
+    "options": {
+      "color": "Citrus",
+      "size": "M"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4387,
+        "width": 3839
+      },
+      {
+        "position": "front",
+        "height": 4387,
+        "width": 3839
+      }
+    ]
+  },
+  {
+    "id": 78933,
+    "title": "Citrus / L",
+    "options": {
+      "color": "Citrus",
+      "size": "L"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 78934,
+    "title": "Citrus / XL",
+    "options": {
+      "color": "Citrus",
+      "size": "XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 78935,
+    "title": "Citrus / 2XL",
+    "options": {
+      "color": "Citrus",
+      "size": "2XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 79126,
+    "title": "Citrus / 3XL",
+    "options": {
+      "color": "Citrus",
+      "size": "3XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  },
+  {
+    "id": 101435,
+    "title": "Citrus / 4XL",
+    "options": {
+      "color": "Citrus",
+      "size": "4XL"
+    },
+    "placeholders": [
+      {
+        "position": "back",
+        "height": 4800,
+        "width": 4200
+      },
+      {
+        "position": "front",
+        "height": 4800,
+        "width": 4200
+      }
+    ]
+  }
+]

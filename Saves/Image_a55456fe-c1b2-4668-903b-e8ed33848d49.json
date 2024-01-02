@@ -1,0 +1,9 @@
+{
+  "status": "error",
+  "code": 10100,
+  "message": "Validation failed.",
+  "errors": {
+    "reason": "contents: The contents field is required when url is not present. url: The url field is required when contents is not present.",
+    "code": 10100
+  }
+}
