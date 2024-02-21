@@ -32,4 +32,15 @@ def post_and_save(uri, body, file_name):
 
 
 def post(uri, body):
-    requests.post(f"{printify_base_url}{uri}", headers=headers, data=json.dumps(body))
+    response = requests.post(f"{printify_base_url}{uri}", headers=headers, data=json.dumps(body))
+    return response.json()
+
+
+def get(uri):
+    response = requests.get(f"{printify_base_url}{uri}", headers=headers)
+    return response.json()
+
+
+def put(uri, body):
+    response = requests.put(f"{printify_base_url}{uri}", headers=headers, data=json.dumps(body))
+    return response.json()
